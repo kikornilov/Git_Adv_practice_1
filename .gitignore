@@ -1,0 +1,9 @@
+build/**
+.jar
+!builde/module2.jar
+application-local.properties
+.idea/**
+.idea_copy/**
+!workspace.xml
+builde
+!builde.*
